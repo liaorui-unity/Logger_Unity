@@ -1,0 +1,70 @@
+[11:42:06]项目名字：UnityLogger
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:ReadConfig() (at Assets/LogUploader/Scripts/Logger.cs:66)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Logger.cs:40)
+UnityEngine.Object:Instantiate(Object)
+Sailfish.Log.Logger:InitLogger() (at Assets/LogUploader/Scripts/Logger.cs:20)
+
+
+[11:42:06]日志时间：20220715
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:ReadConfig() (at Assets/LogUploader/Scripts/Logger.cs:66)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Logger.cs:40)
+UnityEngine.Object:Instantiate(Object)
+Sailfish.Log.Logger:InitLogger() (at Assets/LogUploader/Scripts/Logger.cs:20)
+
+
+[11:42:06]本地日志地址：D:/Project/SVN/LogDemo/Assets/StreamingAssets/Log/20220715/114206.log
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:ReadConfig() (at Assets/LogUploader/Scripts/Logger.cs:66)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Logger.cs:40)
+UnityEngine.Object:Instantiate(Object)
+Sailfish.Log.Logger:InitLogger() (at Assets/LogUploader/Scripts/Logger.cs:20)
+
+
+[11:42:06]服务器日志地址：http://101.33.207.93
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:ReadConfig() (at Assets/LogUploader/Scripts/Logger.cs:66)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Logger.cs:40)
+UnityEngine.Object:Instantiate(Object)
+Sailfish.Log.Logger:InitLogger() (at Assets/LogUploader/Scripts/Logger.cs:20)
+
+
+[11:42:06]开启日志线程
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:ReadConfig() (at Assets/LogUploader/Scripts/Logger.cs:66)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Logger.cs:40)
+UnityEngine.Object:Instantiate(Object)
+Sailfish.Log.Logger:InitLogger() (at Assets/LogUploader/Scripts/Logger.cs:20)
+
+
+
+[11:42:06]连接服务器中.....
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.LogUploader:SocketClient() (at Assets/LogUploader/Scripts/LogUploader.cs:53)
+Sailfish.Log.LogUploader:.ctor() (at Assets/LogUploader/Scripts/LogUploader.cs:20)
+Sailfish.Log.LoggerPanel:.ctor(Transform) (at Assets/LogUploader/Scripts/LoggerPanel.cs:75)
+Sailfish.Log.Logger:Start() (at Assets/LogUploader/Scripts/Logger.cs:77)
+
+
+[11:42:06]与服务器链接成功！:192.168.31.86
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.LogUploader:SocketClient() (at Assets/LogUploader/Scripts/LogUploader.cs:61)
+Sailfish.Log.LogUploader:.ctor() (at Assets/LogUploader/Scripts/LogUploader.cs:20)
+Sailfish.Log.LoggerPanel:.ctor(Transform) (at Assets/LogUploader/Scripts/LoggerPanel.cs:75)
+Sailfish.Log.Logger:Start() (at Assets/LogUploader/Scripts/Logger.cs:77)
+
+
+

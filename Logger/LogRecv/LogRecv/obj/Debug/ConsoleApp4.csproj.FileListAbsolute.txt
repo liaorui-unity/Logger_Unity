@@ -1,0 +1,11 @@
+C:\Users\unityLR\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\unityLR\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\unityLR\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\unityLR\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\unityLR\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Work\SVN\LogDemo\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

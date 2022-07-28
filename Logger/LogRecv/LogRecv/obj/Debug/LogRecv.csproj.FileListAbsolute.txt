@@ -1,0 +1,11 @@
+D:\Work\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.csproj.CoreCompileInputs.cache
+D:\Work\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.exe
+D:\Work\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.pdb
+D:\Work\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.exe
+D:\Work\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.pdb
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.exe
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.pdb
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.csproj.CoreCompileInputs.cache
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.exe
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\obj\Debug\LogRecv.pdb
+D:\Project\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.exe.config

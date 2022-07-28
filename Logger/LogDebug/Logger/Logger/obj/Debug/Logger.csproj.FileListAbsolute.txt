@@ -1,0 +1,9 @@
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\bin\Debug\Logger.dll
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\bin\Debug\Logger.pdb
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\bin\Debug\UnityEngine.dll
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\bin\Debug\UnityEngine.xml
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.dll
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.pdb
+D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
