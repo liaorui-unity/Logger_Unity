@@ -11,68 +11,93 @@ namespace Sailfish.Log
     {
         bool isOpenCameraBack = false;
 
-        Vector3 startPos, endPos, middlePos;
-        List<Vector3> middles = new List<Vector3>();
-
-        float time = 0;
-
         public System.Action<bool> Call;
 
-        public void Check()
+        Point downPoint;
+        Point topPoint;
+
+        Bounds boundsZero = new Bounds(new Vector3(0, Screen.height / 2, 0), Vector3.one * 200);
+        Bounds boundsTop  = new Bounds(new Vector3(Screen.width,Screen.height/2,0), Vector3.one * 200);
+
+        public class Point
         {
-            if (Input.GetMouseButtonDown(0))
+            public Bounds bouns;
+            public bool  isActive;
+
+            int   localCount = 0;
+            float localTime  = 1.0f;
+
+            public Point(Bounds bounds)
             {
-                startPos = Input.mousePosition;
-                middles.Clear();
-                time = Time.time;
+                this.bouns = bounds;
             }
 
-            if (Input.GetMouseButton(0))
+            public void Complete()
             {
-                middles.Add(Input.mousePosition);
+                isActive = false;
+                localCount = 0;
             }
 
-            if (Input.GetMouseButtonUp(0))
+            public void Check(float time)
             {
-                if (middles.Count < 2) return;
-
-                endPos = Input.mousePosition;
-                middlePos = middles[middles.Count / 2];
-
-                if (Vector3.Distance(middlePos, startPos) > 540 && Vector3.Distance(middlePos, endPos)> 540)
+                if (Input.GetMouseButtonDown(0))
                 {
-
-                    if (Time.time - time < 1.5f)
+                    if (bouns.Contains(Input.mousePosition))
                     {
-                        if (Angle(middlePos, startPos, endPos) < 60)
+                        if (localCount == 0 || localCount == 1)
                         {
-                            isOpenCameraBack = !isOpenCameraBack;
-                            Call?.Invoke(isOpenCameraBack);
+                            localCount++;
+                            localTime = time;
+                        }
+                        else if (localCount == 2)
+                        {
+                            localTime = time;
+                            isActive = true;
                         }
                     }
                 }
 
-                middles.Clear();
+                if (isActive)
+                {
+                    if (Time.time - localTime > 2.5f)
+                    {
+                        isActive = false;
+                    }
+                }
+                else 
+                {
+                    if (localCount > 0)
+                    {
+                        if (Time.time - localTime > 1.0f)
+                        {
+                            localCount = 0;
+                        }
+                    }
+                }
             }
+        }
+
+        public MouseGesture()
+        {
+            topPoint  = new Point(boundsTop);
+            downPoint = new Point(boundsZero);
         }
 
 
 
-        double Angle(Vector3 cen, Vector3 first, Vector3 second)
+
+        public void Check()
         {
-            const float M_PI = 3.1415926535897f;
+            topPoint .Check(Time.time);
+            downPoint.Check(Time.time);
 
-            float ma_x = first.x - cen.x;
-            float ma_y = first.y - cen.y;
-            float mb_x = second.x - cen.x;
-            float mb_y = second.y - cen.y;
-            float v1 = (ma_x * mb_x) + (ma_y * mb_y);
-            float ma_val = Mathf.Sqrt(ma_x * ma_x + ma_y * ma_y);
-            float mb_val = Mathf.Sqrt(mb_x * mb_x + mb_y * mb_y);
-            float cosM = v1 / (ma_val * mb_val);
-            float angleAMB = Mathf.Acos(cosM) * 180.0f / M_PI;
-
-            return angleAMB;
+            if (topPoint.isActive && downPoint.isActive)
+            {
+                topPoint .Complete();
+                downPoint.Complete();
+                isOpenCameraBack = !isOpenCameraBack;
+                Call?.Invoke(isOpenCameraBack);
+            }
         }
     }
 }

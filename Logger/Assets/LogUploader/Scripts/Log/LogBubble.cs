@@ -6,34 +6,46 @@
 //=======================================================
 using System.Collections;
 using System.Collections.Generic;
+using Sailfish.Log;
 using UnityEngine;
 using UnityEngine.UI;
 
 namespace Sailfish
 {
+	[ExecuteInEditMode]
 	public class LogBubble : MonoBehaviour
 	{
 
 		[Header("Log文本组件")]
 		public int count;
 		public Text logTxt;
-		public LayoutElement layout;
-		public RectTransform logTxtTransfrom;
+        public Text timeTxt;
+        public Text multipleTxt;
 
+		public LayoutElement m_Layout;
+		public RectTransform m_CountRect;
+        public RectTransform m_TimerRect;
 
-		[Header("多次连续出现")]
 		public Transform multiple;
-		public   Text    multipleTxt;
 
-		private LogGroup group;
 
-		public void Init(string str, LogGroup group)
+        private RectTransform parentRect;
+
+        float width = 0;
+        int heigth = 0;
+
+        private void OnEnable()
+        {
+            parentRect = this.transform.parent.parent.GetComponent<RectTransform>();
+        }
+
+        public void Init(LogData log)
 		{
-			this.group = group;
 			multiple.gameObject.SetActive(false);
-			logTxt.text = str;
-			count = 0;
-		}
+			logTxt.text  = log.log;
+            timeTxt.text = log.timer;
+            count = 0;
+        }
 
 
 
@@ -45,14 +57,16 @@ namespace Sailfish
 		}
 
 
-        private void LateUpdate()
+        private void Update()
         {
-			if (logTxtTransfrom.sizeDelta.x > Screen.width)
-			{
-				layout.preferredWidth = Screen.width - 125;
-				group.Rebuiler();
-			}
-		}
+            var layaout = Screen.width - m_TimerRect.sizeDelta.x - m_CountRect.sizeDelta.x - 30;
+
+            if (width != layaout)
+            {
+                width = layaout;
+                m_Layout.preferredWidth = (int)layaout;
+            }
+        }
 
         public void Rebuilder()
 		{

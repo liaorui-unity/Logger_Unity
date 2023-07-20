@@ -6,6 +6,7 @@
 //=======================================================
 using System.Collections;
 using System.Collections.Generic;
+using Sailfish.Log;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -18,11 +19,7 @@ namespace Sailfish
         private ScrollRect      scrollRect;
         private RectTransform   content;
 
-        [SerializeField]
-        private float stepVertical; //上下两个气泡的垂直间隔
-        [SerializeField]
-        private float stepHorizontal; //左右两个气泡的水平间隔
-
+     
         private string lastStr;
 
         private       LogBubble  lastBubble;
@@ -37,28 +34,27 @@ namespace Sailfish
             content    = transform.Find("Viewport/Content").GetComponent<RectTransform>();
         }
 
-        public void AddBubble(string content)
+        public void AddBubble(LogData content)
         {
-            if (lastStr == content)
+            if (lastStr == content.log)
             {
                 lastBubble.ShowMultiple();
             }
             else
             { 
-                lastStr = content;
+                lastStr = content.log;
 
                 GameObject newBubble = GetBubble();
             
                 //设置气泡内容
-                var bubble = newBubble.GetComponent<LogBubble>();
-                bubble.Init(content, this);
-                bubbles.Enqueue(bubble);
+                var bubble = newBubble . GetComponent<LogBubble>();
+                bubble     . Init(content);
+                bubble     . Rebuilder();
+                bubbles    . Enqueue(bubble);
+                lastBubble = bubble;
 
                 newBubble.transform.localPosition = new Vector3(-20000, 10000, 0);
                 newBubble.SetActive(true);
-
-                lastBubble = bubble;
-                bubble.Rebuilder();
 
                 scrollRect.verticalNormalizedPosition = 0;//使滑动条滚轮在最下方
             }
@@ -66,7 +62,7 @@ namespace Sailfish
 
         GameObject GetBubble()
         {
-            if (bubbles.Count < 50)
+            if (bubbles.Count < 500)
             {
                 GameObject newBubble = Instantiate(bubblePrefab, this.content);
                 return newBubble;

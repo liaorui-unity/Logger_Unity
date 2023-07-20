@@ -14,12 +14,22 @@ using UnityEngine.UI;
 
 namespace Sailfish.Log
 {
+    public struct LogData
+    {
+        public LogType type;
+        public string  log;
+        public string  stackTrace;
+        public string  timer;
+    }
+
+
     public class Logger : MonoBehaviour
     {
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         static void InitLogger()
         {
             Application.logMessageReceived += Recv;
+            Debug.s_debugLogEnable = true;
             if (instance == null)
             {
                 var logger = Instantiate(Resources.Load("Logger")) as GameObject;
@@ -30,10 +40,11 @@ namespace Sailfish.Log
                 instance.logPanel = new LoggerPanel(instance.panel);
                 TriggerCall += instance.logPanel.SetPanel;
             }
+     
         }
 
         internal static Logger instance;
-        internal static Queue<string> msgQues = new Queue<string>();
+        internal static Queue<LogData> msgQues = new Queue<LogData>();
 
 
         public static UnityAction<bool> TriggerCall;
@@ -70,7 +81,6 @@ namespace Sailfish.Log
             {
                 Debug.LogError("没有配置LoggerIP 默认自身IP");
             }
-
             Debug.Log("配置表IP:" + Debug.uploadLAN);
         }
 
@@ -78,7 +88,8 @@ namespace Sailfish.Log
         void Start()
         {
             gesture = new MouseGesture();
-            StartThread();
+            gesture.Call = logPanel.SetPanel;
+          //  StartThread();
         }
 
         void StartThread()
@@ -108,7 +119,6 @@ namespace Sailfish.Log
                 Debug.Log("连接本地服务器失败！");     
                 gesture.Call = (value) =>
                 {
-                    gesture.Call = null;
                     StartThread();
                 };
             }
@@ -120,28 +130,13 @@ namespace Sailfish.Log
 
         static void Recv(string condition, string stackTrace, LogType type)
         {
-            switch (type)
-            {
-                case LogType.Log:
-                    {
-                        if (!Debug.s_debugLogEnable) return;
-                    }
-                    break;
-                case LogType.Warning:
-                    {
-                        if (!Debug.s_warningLogEnable) return;
-                    }
-                    break;
-                case LogType.Error:
-                    {
-                        if (!Debug.s_errorLogEnable) return;
-                    }
-                    break;
-            }
-
-            msgQues.Enqueue(string.Format("[<color=#FF0000>{0}</color>] {1}", DateTime.Now.ToString("yy/MM/dd HH:mm:ss:ffff"), condition));
+            LogData data;
+            data.log        = condition;
+            data.type       = type;
+            data.stackTrace = stackTrace;
+            data.timer      = $"[<color=#FF0000>{DateTime.Now.ToString("yy/MM/dd HH:mm:ss:ffff")}</color>]";
+            msgQues.Enqueue(data);
         }
-
 
 
         private void Update()

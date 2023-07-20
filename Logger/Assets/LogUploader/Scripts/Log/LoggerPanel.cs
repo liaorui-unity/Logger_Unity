@@ -16,10 +16,6 @@ namespace Sailfish.Log
 	public class LoggerPanel
 	{
         /// <summary>
-        /// 日志开关
-        /// </summary>
-        public Toggle logEnableTgl;
-        /// <summary>
         /// 打印日志按钮
         /// </summary>
         public Toggle logBtnType;
@@ -57,13 +53,12 @@ namespace Sailfish.Log
 		{
             panel = target;
 
-            logEnableTgl =   target.Find("Toggle").      GetComponent<Toggle>();
-            logBtnType   =   target.Find("typeToggle").  GetComponent<Toggle>();
-            uploadBtn    =   target.Find("uploadButton").GetComponent<Button>();
-            closeBtn     =   target.Find("closeButton"). GetComponent<Button>();
+            logBtnType   =   target.Find("bottom/typeToggle").  GetComponent<Toggle>();
+            uploadBtn    =   target.Find("bottom/uploadButton").GetComponent<Button>();
+            closeBtn     =   target.Find("top/closeButton"). GetComponent<Button>();
 
-            ipTxt    =   target.Find("account/Ip").GetComponent<Text>(); 
-            proTxt   =   target.Find("account/Project").GetComponent<Text>();
+            ipTxt    =   target.Find("top/account/Ip").GetComponent<Text>(); 
+            proTxt   =   target.Find("top/account/Project").GetComponent<Text>();
 
             ipTxt. text  =  Debug.debugIp;
             proTxt.text  =  Debug.debugName;
@@ -75,7 +70,6 @@ namespace Sailfish.Log
             uploadBtn.onClick.AddListener(() => { uploader.Upload();  });
             closeBtn .onClick.AddListener(() => { SetPanel(false, true); });
 
-            logEnableTgl.onValueChanged.AddListener((value)=> { Debug.s_debugLogEnable = value; });
             logBtnType.  onValueChanged.AddListener(SwitchType);
         }
 

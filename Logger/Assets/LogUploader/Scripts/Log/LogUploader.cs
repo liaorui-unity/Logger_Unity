@@ -16,10 +16,6 @@ namespace Sailfish.Log
 
         public System.Action<bool> VerifyCall;
 
-        public LogUploader()
-        {
-          
-        }
 
 
         public void Verify()
@@ -37,6 +33,7 @@ namespace Sailfish.Log
             }
             catch (System.Exception ex)
             {
+                Debug.LogError("链接失败："+ex.Message);
                 VerifyCall?.Invoke(false);
             }
         }
