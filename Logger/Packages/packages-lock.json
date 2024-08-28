@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.lr.upm-editor": {
+      "version": "https://gitcode.net/lr1993/upm-editor.git#1.0.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a816900656c4492a34fe4bc472a43d640c9197f3"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

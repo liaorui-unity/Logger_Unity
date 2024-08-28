@@ -22,34 +22,56 @@ namespace Sailfish
         public Text timeTxt;
         public Text multipleTxt;
 
+		public Button selectBtn;
+
 		public LayoutElement m_Layout;
 		public RectTransform m_CountRect;
         public RectTransform m_TimerRect;
 
 		public Transform multiple;
 
+        
 
         private RectTransform parentRect;
 
         float width = 0;
         int heigth = 0;
+        LogData data;
 
-        private void OnEnable()
+
+        public void Awake()
         {
             parentRect = this.transform.parent.parent.GetComponent<RectTransform>();
+            selectBtn.onClick.AddListener(select);
         }
+
 
         public void Init(LogData log)
 		{
 			multiple.gameObject.SetActive(false);
-			logTxt.text  = log.log;
-            timeTxt.text = log.timer;
-            count = 0;
+			logTxt  . text = log . log;
+            timeTxt . text = log . timer;
+            count   = 0;
+            data    = log;
+
+            switch (log.type)
+            { 
+				case LogType . Log      : logTxt . color = Color . white; break;
+				case LogType . Warning  : logTxt . color = Color . yellow; break;
+				case LogType . Error    : logTxt . color = Color . red; break;
+				case LogType . Exception: logTxt . color = Color . red; break;
+			}
+
         }
 
 
+        public void select()
+        {
+           Sailfish.Log.Logger.instance.SelectLog(data);
+        }
 
-		public void ShowMultiple(int number = 1)
+
+        public void ShowMultiple(int number = 1)
 		{
 			count += number;
 			multiple.gameObject.SetActive(count > 1);

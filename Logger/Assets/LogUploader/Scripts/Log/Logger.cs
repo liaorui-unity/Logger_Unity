@@ -30,39 +30,22 @@ namespace Sailfish.Log
         {
             Application.logMessageReceived += Recv;
             Debug.s_debugLogEnable = true;
-            if (instance == null)
-            {
-                var logger = Instantiate(Resources.Load("Logger")) as GameObject;
-                logger.gameObject.name = "Logger";
-                instance = logger.GetComponent<Logger>();
-
-                instance.logGroup.Init();
-                instance.logPanel = new LoggerPanel(instance.panel);
-                TriggerCall += instance.logPanel.SetPanel;
-            }
-     
         }
 
         internal static Logger instance;
         internal static Queue<LogData> msgQues = new Queue<LogData>();
 
-
         public static UnityAction<bool> TriggerCall;
 
-
-        public  Transform   panel;
-        public  LogGroup logGroup;
-
+        private Transform     panel;
+        private LogGroup      logGroup;
+        private LogTrace      logTrace;
         private MouseGesture  gesture;
         private LoggerPanel   logPanel;
 
-
-        Thread threadwhat;
-
      
-
         void Awake()
-        {
+        {   
             ReadConfig();
 
 #if UNITY_EDITOR || UNITY_STANDALONE_WIN
@@ -70,6 +53,13 @@ namespace Sailfish.Log
 #else
             Debug.Init(Application.persistentDataPath);
 #endif
+
+            panel    = transform.Find("MainPanel");
+            logTrace = transform.GetComponentInChildren<LogTrace>(true);
+            logGroup = transform.GetComponentInChildren<LogGroup>(true);
+            logPanel = new LoggerPanel(panel);
+            logGroup . Init();
+            instance = this;
         }
         void ReadConfig()
         {
@@ -87,45 +77,9 @@ namespace Sailfish.Log
 
         void Start()
         {
-            gesture = new MouseGesture();
-            gesture.Call = logPanel.SetPanel;
-          //  StartThread();
+            gesture = new  MouseGesture();
+            gesture . Call = logPanel . SetPanel;
         }
-
-        void StartThread()
-        {
-            threadwhat = new Thread(ThreadVerify);//创建一个接受信息的进程
-            threadwhat.IsBackground = true;//后台启动
-            threadwhat.Start();//有传入参数的线程
-        }
-
-        void ThreadVerify()
-        {
-            logPanel.uploader.VerifyCall = Verify;
-            logPanel.uploader.Verify();
-        }
-
-        void Verify(bool isSuccess)
-        {
-            logPanel.uploader.VerifyCall = null;
-
-            if (isSuccess)
-            {
-                Debug.Log("连接本地服务器成功！");
-                gesture.Call = logPanel.SetPanel;
-            }
-            else
-            {
-                Debug.Log("连接本地服务器失败！");     
-                gesture.Call = (value) =>
-                {
-                    StartThread();
-                };
-            }
-
-            threadwhat.Abort();
-        }
-
 
 
         static void Recv(string condition, string stackTrace, LogType type)
@@ -134,7 +88,7 @@ namespace Sailfish.Log
             data.log        = condition;
             data.type       = type;
             data.stackTrace = stackTrace;
-            data.timer      = $"[<color=#FF0000>{DateTime.Now.ToString("yy/MM/dd HH:mm:ss:ffff")}</color>]";
+            data.timer      = $"[<color=#51F7F8>{DateTime.Now.ToString("yy/MM/dd HH:mm:ss:ffff")}</color>]";
             msgQues.Enqueue(data);
         }
 
@@ -150,13 +104,18 @@ namespace Sailfish.Log
         }
 
 
+        public void SelectLog(LogData data)
+        {
+            logTrace?.ShowTrace(data);
+            logTrace?.Rebuilder();
+        }
+
 
         private void OnDestroy()
         {
             gesture  =  null;
             instance =  null;
 
-            threadwhat.Abort();
             Application.logMessageReceived -= Recv;
         }
     }

@@ -16,7 +16,10 @@ namespace Sailfish.Log
         Point downPoint;
         Point topPoint;
 
+        //屏幕左边中心点
         Bounds boundsZero = new Bounds(new Vector3(0, Screen.height / 2, 0), Vector3.one * 200);
+
+        //屏幕右边中心点
         Bounds boundsTop  = new Bounds(new Vector3(Screen.width,Screen.height/2,0), Vector3.one * 200);
 
         public class Point

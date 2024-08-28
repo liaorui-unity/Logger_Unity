@@ -14,9 +14,10 @@ namespace Sailfish
 {
 	public class LogTrace : MonoBehaviour 
 	{
+		public ScrollRect scrollRect;
         public LogData selectData;
-
         public Text traceTxt;
+
         public void ShowTrace(LogData data)
         {
             if (string.IsNullOrEmpty(selectData.stackTrace))
@@ -27,6 +28,12 @@ namespace Sailfish
         {
             selectData    = select;
             traceTxt.text = select.stackTrace;
+        }
+
+        public void Rebuilder()
+        {
+            scrollRect.SetLayoutVertical();
+            scrollRect.SetLayoutHorizontal();//使滑动条滚轮在最下方
         }
     }
 }

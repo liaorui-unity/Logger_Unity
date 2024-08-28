@@ -57,6 +57,9 @@ namespace Sailfish
                 newBubble.SetActive(true);
 
                 scrollRect.verticalNormalizedPosition = 0;//使滑动条滚轮在最下方
+                scrollRect.SetLayoutVertical();
+                scrollRect.SetLayoutHorizontal();
+               // Rebuiler();
             }
         }
 
@@ -86,6 +89,8 @@ namespace Sailfish
             if (rebuilderWait == 0)
             {
                 scrollRect.verticalNormalizedPosition = 0;//使滑动条滚轮在最下方
+                scrollRect.SetLayoutVertical();
+                scrollRect.SetLayoutHorizontal();
             }
         }
     }
