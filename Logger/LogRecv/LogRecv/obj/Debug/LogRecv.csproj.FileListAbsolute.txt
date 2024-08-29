@@ -12,7 +12,7 @@ D:\Project\SVN\LogDemo\LogRecv\LogRecv\bin\Debug\LogRecv.exe.config
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\bin\Debug\LogRecv.exe.config
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\bin\Debug\LogRecv.exe
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\bin\Debug\LogRecv.pdb
-E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\obj\Debug\LogRecv.csprojAssemblyReference.cache
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\obj\Debug\LogRecv.csproj.CoreCompileInputs.cache
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\obj\Debug\LogRecv.exe
 E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\obj\Debug\LogRecv.pdb
+E:\Project\Logger_Unity\Logger\LogRecv\LogRecv\obj\Debug\LogRecv.csproj.AssemblyReference.cache

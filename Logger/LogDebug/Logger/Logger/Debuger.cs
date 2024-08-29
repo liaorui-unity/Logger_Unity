@@ -84,7 +84,8 @@ namespace Sailfish.Log
 
             if (!Directory.Exists(dubugFolder)) Directory.CreateDirectory(dubugFolder);
 
-            Application.logMessageReceived += OnLogCallBack;
+            Application.logMessageReceivedThreaded += OnLogCallBack;
+
 
             SortAndDestroy(logFolder);
 

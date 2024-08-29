@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/LogStyle.uss?fileID=7433441132597879392&amp;guid=6974870d7f7349f44a8881be5794417c&amp;type=3#LogStyle" />
+    <ui:GroupBox name="Title" style="height: 66px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; -unity-text-outline-color: rgb(255, 255, 255); background-color: rgb(168, 6, 6);">
+        <ui:GroupBox name="Group" style="flex-direction: row; height: 30px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; background-color: rgba(164, 164, 164, 0.24);">
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="IP" style="padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; font-size: 24px; color: rgb(255, 255, 255); justify-content: space-around; -unity-text-align: middle-center; width: 100%; height: 28px; background-color: rgba(0, 0, 0, 0);" />
+        </ui:GroupBox>
+        <ui:GroupBox name="Group" style="flex-direction: row; height: 36px; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; background-color: rgba(88, 163, 209, 0.42); -unity-text-outline-color: rgb(255, 0, 0);">
+            <ui:Button text="上传服务器类型" display-tooltip-when-elided="true" name="UploadType" style="flex-direction: row; flex-wrap: nowrap; left: auto; justify-content: space-between; align-items: auto; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; translate: 0 0; right: auto; top: auto; width: 20%; height: 100%; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; flex-shrink: 0; flex-grow: 0; -unity-text-align: middle-center; white-space: nowrap; border-right-width: 5px;" />
+            <ui:TextField picking-mode="Ignore" label="Text Field" value="filler text" text="filler text" name="Url" style="width: 50%; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; -unity-text-align: middle-center; font-size: 18px; height: 100%; max-width: 50%; min-width: 60%;" />
+            <ui:Button text="确定上传" display-tooltip-when-elided="true" name="UploadButton" style="flex-direction: row-reverse; flex-wrap: wrap; left: auto; justify-content: space-around; align-items: auto; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; translate: 0 0; right: auto; top: auto; width: 20%; height: 100%; border-left-width: 5px;" />
+        </ui:GroupBox>
+    </ui:GroupBox>
+    <ui:GroupBox name="GroupBox" style="top: auto; height: 95%; max-height: 95%; min-height: 100%; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;">
+        <ui:VisualElement name="Content" style="height: 70%; max-height: 70%; min-height: 75%; top: auto; background-color: rgb(101, 101, 101);">
+            <ui:ScrollView name="Scroll" style="height: 100%;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Trace" style="height: 20%; max-height: 20%; min-height: 20%; position: relative; top: auto; visibility: visible; overflow: visible; display: flex; opacity: 1;">
+            <ui:GroupBox name="Group" />
+        </ui:VisualElement>
+    </ui:GroupBox>
+</ui:UXML>

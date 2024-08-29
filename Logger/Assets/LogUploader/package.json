@@ -1,0 +1,8 @@
+{"name": "com.lr.logger",
+"displayName": "uilog",
+"description": "在ui上显示log",
+"version": "1.0.0",
+"unity": "2020.3",
+"license": "MIT",
+"dependencies": {},
+"author": {"name": "lr"}}

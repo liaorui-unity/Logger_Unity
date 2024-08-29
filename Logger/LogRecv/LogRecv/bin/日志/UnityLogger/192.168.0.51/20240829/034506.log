@@ -1,0 +1,36 @@
+[03:45:06]项目名字：UnityLogger
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Log/Logger.cs:52)
+
+
+[03:45:06]日志时间：20240829
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Log/Logger.cs:52)
+
+
+[03:45:06]本地日志地址：E:/Project/Logger_Unity/Logger/Assets/StreamingAssets/Log/20240829/034506.log
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Log/Logger.cs:52)
+
+
+[03:45:06]服务器日志地址：http://101.33.207.93
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Log/Logger.cs:52)
+
+
+[03:45:06]开启日志线程
+UnityEngine.Debug:Log(Object)
+Sailfish.Log.Debug:Log(String)
+Sailfish.Log.Debug:Init(String)
+Sailfish.Log.Logger:Awake() (at Assets/LogUploader/Scripts/Log/Logger.cs:52)
+
+
+

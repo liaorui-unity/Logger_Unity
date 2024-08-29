@@ -11,32 +11,14 @@ namespace Sailfish.Log
     public class LogUploader
     {
         Socket socketClient;//定义socket
-        Thread threadwhat;
         long mb = 1024 * 1024 * 5;
 
-        public System.Action<bool> VerifyCall;
-
-
-
-        public void Verify()
+        public LogUploader()
         {
-            try
-            {
-                if (SocketClient())
-                {
-                    SendVerify();
-                }
-                else
-                {
-                    VerifyCall?.Invoke(false);
-                }
-            }
-            catch (System.Exception ex)
-            {
-                Debug.LogError("链接失败："+ex.Message);
-                VerifyCall?.Invoke(false);
-            }
+            ThreadPool.SetMinThreads(1, 1);
+            ThreadPool.SetMaxThreads(3, 3);
         }
+
 
 
         public void Upload()
@@ -52,10 +34,7 @@ namespace Sailfish.Log
         {
             socketClient.Shutdown(SocketShutdown.Both);//禁止Socket上的发送和接受
             socketClient.Close();//关闭Socket并释放资源
-            threadwhat.Abort();
         }
-
-
 
         private bool SocketClient()
         {
@@ -75,78 +54,46 @@ namespace Sailfish.Log
 
             Debug.Log("与服务器链接成功！:"+ ip);
 
-
-            threadwhat = new Thread(ReceiveMsg);//创建一个接受信息的进程
-            threadwhat.IsBackground = true;//后台启动
-            threadwhat.Start(socketClient);//有传入参数的线程
-
             return true;
-        }
-
-
-        private  void ReceiveMsg(object watchConnect) 
-        {
-            Socket socketServer = watchConnect as Socket;
-
-            while (socketServer != null)
-            {
-                int firstRcv = 0;
-                byte[] buffer = new byte[1024 * 1024 * 5];
-                try
-                {
-                    //获取接受数据的长度，存入内存缓冲区，返回一个字节数组的长度
-                    firstRcv = socketServer.Receive(buffer);
-                    if (firstRcv > 0)//大于0，说明有东西传过来
-                    {
-                        if (buffer[0] == 1)
-                        {
-                            string recMsg = Encoding.UTF8.GetString(buffer, 1, firstRcv - 1);
-
-                            if (recMsg=="验证成功")
-                            {
-                                VerifyCall?.Invoke(true);
-                                Clear();
-                            }
-                        }
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Debug.LogError("连接断开..." + ex.Message);
-                    break;
-                }
-            }
         }
 
 
         private async void SendFile()
         {
-            using (FileStream fsRead = new FileStream(Debug.logFileSavePath, FileMode.OpenOrCreate, FileAccess.Read))
+            Debug.isUploadDebug = true;
+            try
             {
-                Debug.isUploadDebug = true;
-                //1. 第一步：发送一个文件，表示文件名和长度，让客户端知道后续要接收几个包来重新组织成一个文件
-                await Task.Run(() => { SendFileInfo(Debug.logFileSavePath, fsRead); });
+                using (FileStream fsRead = new FileStream(Debug.logFileSavePath, FileMode.OpenOrCreate, FileAccess.Read))
+                {
+                    //1. 第一步：发送一个文件，表示文件名和长度，让客户端知道后续要接收几个包来重新组织成一个文件
+                    await Task.Run(() => { SendFileInfo(Debug.logFileSavePath, fsRead); });
 
-                //2第二步：每次发送一个1MB的包，如果文件较大，则会拆分为多个包
-                await Task.Run(() => { SendFileBytes(fsRead); });
+                    //2第二步：每次发送一个1MB的包，如果文件较大，则会拆分为多个包
+                    await Task.Run(() => { SendFileBytes(fsRead); });
 
-                //3第三步：关闭线程，文件流
-                fsRead.Close();
-                Debug.isUploadDebug = false;
+                    //3第三步：发送关闭消息
+                    await Task.Run(() => { SendFinish(); });
+                }
                 Debug.Log("发送完成");
-                Clear();
             }
+            catch
+            {
+                Debug.Log("发送失败");
+            }
+         
+            Debug.isUploadDebug = false;
+            Clear();
         }
 
 
-        private void SendVerify()
+        private void SendFinish()
         {
-            byte[] buffer = Encoding.UTF8.GetBytes("Logger");
+            byte[] buffer = Encoding.UTF8.GetBytes("upload finish");
             byte[] newBuffer = new byte[buffer.Length + 1];
 
             newBuffer[0] = 3;
             Buffer.BlockCopy(buffer, 0, newBuffer, 1, buffer.Length);
-            socketClient.Send(newBuffer);//发送文件前，将文件名和长度发过去
+            socketClient.Send(newBuffer);//完成后，发送完成消息过去
         }
 
 
