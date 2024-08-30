@@ -1,0 +1,103 @@
+[05:27:58]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:27:58]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:27:58]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/052758.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:27:58]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:27:58]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+
+[05:28:01]Time:2.489122
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:01]Time:2.875238
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:02]Time:3.018598
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+
+[05:28:02]Time:3.162277
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:02]Time:3.313326
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:02]Time:3.477117
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:02]Time:3.638031
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:02]Time:3.793834
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:3.954699
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:4.11758
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:4.24293
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:4.385651
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:4.510913
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+[05:28:03]Time:4.649978
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:84)
+
+

@@ -1,0 +1,38 @@
+[05:26:57]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:26:57]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:26:57]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/052657.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:26:57]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+[05:26:57]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:49)
+
+
+[05:26:57]NullReferenceException: Object reference not set to an instance of an object.
+Sailfish.Log.Logger.Start () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:59)
+
+[05:26:57]NullReferenceException: Object reference not set to an instance of an object
+Sailfish.LogGroup.LateUpdate () (at Assets/LogUploader/Scripts/UGUI_Log/LogGroup.cs:82)
+
+

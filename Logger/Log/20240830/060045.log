@@ -1,0 +1,48 @@
+[06:00:45]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:00:45]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:00:45]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/060045.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:00:45]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:00:45]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+
+[06:00:45]ArgumentException: The Object you want to instantiate is null.
+UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) (at <ccb96497f2344006816d6130a29c3fcb>:0)
+UnityEngine.Object.Instantiate (UnityEngine.Object original) (at <ccb96497f2344006816d6130a29c3fcb>:0)
+Sailfish.Log.Logger.CreatMode (Sailfish.Log.LogMode mode) (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:67)
+Sailfish.Log.Logger.InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:43)
+
+

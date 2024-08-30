@@ -1,0 +1,55 @@
+[05:53:48]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:53)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:36)
+
+[05:53:48]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:53)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:36)
+
+[05:53:48]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/055348.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:53)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:36)
+
+[05:53:48]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:53)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:36)
+
+[05:53:48]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:53)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:36)
+
+
+[05:53:48]NullReferenceException: Object reference not set to an instance of an object.
+Sailfish.Log.Logger.Start () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:65)
+
+
+[05:53:55][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+

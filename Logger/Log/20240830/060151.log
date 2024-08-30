@@ -1,0 +1,3006 @@
+[06:01:51]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:01:51]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:01:51]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/060151.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:01:51]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+[06:01:51]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/UGUI_Log/Logger.cs:41)
+
+
+[06:01:57]-----:5.678497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.678497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.691911
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.691911
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.695881
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.695881
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.699662
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.699662
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.703308
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.703308
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.706795
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.706795
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.710142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.710142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.714712
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.714712
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.718422
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.718422
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.72192
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.72192
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.725459
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.725459
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.729596
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.729596
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.733662
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.733662
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.737423
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.737423
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.74105
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.74105
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.745036
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.745036
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.749358
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.749358
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.753407
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.753407
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.757582
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.757582
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.778608
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:57]-----:5.778608
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[06:01:58]-----:6.727028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.727028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.731639
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.731639
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.736147
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.736147
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.740484
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.740484
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.744771
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.744771
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.749835
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.749835
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.754515
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.754515
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.759002
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.759002
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.763498
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.763498
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.767876
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.767876
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.772095
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.772095
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.77597
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.77597
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.779774
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.779774
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.784886
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.784886
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.789855
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.789855
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.797656
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.797656
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.803102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.803102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.807454
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.807454
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.811479
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.811479
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.815988
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.815988
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.880866
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:58]-----:6.880866
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+
+[06:01:59]-----:7.248732
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.248732
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.254101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.254101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.258455
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.258455
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.26264
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.26264
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.267862
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.267862
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.272037
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.272037
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.275977
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.275977
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.280069
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.280069
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.284479
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.284479
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.289186
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.289186
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.378006
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.378006
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.383168
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.383168
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.387322
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.387322
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.391307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.391307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.395351
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.395351
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.399416
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.399416
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.403613
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.403613
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.408135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.408135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.412246
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.412246
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.416404
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.416404
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.420835
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.420835
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.425034
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.425034
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.429028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.429028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.433604
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.433604
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.438376
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.438376
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.442737
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.442737
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.446992
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.446992
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.454721
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.454721
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.531395
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.531395
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.536513
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.536513
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.540694
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.540694
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.545525
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.545525
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.550371
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.550371
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.55485
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.55485
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.559649
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.559649
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.564565
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.564565
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.568958
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.568958
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.573199
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.573199
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.577643
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.577643
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.581905
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.581905
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.586215
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.586215
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.590971
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.590971
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.595383
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.595383
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.599644
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.599644
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.604552
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.604552
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.685879
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.685879
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.691839
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.691839
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.69789
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.69789
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.703383
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.703383
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.708979
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.708979
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.714688
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.714688
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.720006
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.720006
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.725203
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.725203
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.730294
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.730294
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.735946
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.735946
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.743818
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.743818
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.75036
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.75036
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.75578
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.75578
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.762217
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:01:59]-----:7.762217
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+
+[06:02:02]-----:10.45493
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.45493
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.46279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.46279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.4696
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.4696
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.47412
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.47412
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.47867
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.47867
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.48353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.48353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.48807
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.48807
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.49254
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.49254
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.49785
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.49785
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.50272
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.50272
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.50767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.50767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5128
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5128
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.51753
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.51753
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.52208
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.52208
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.52671
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.52671
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.53148
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.53148
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5362
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5362
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.54089
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.54089
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.54594
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.54594
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.55133
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.55133
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.55625
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.55625
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.56101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.56101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.56593
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.56593
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.57099
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.57099
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.57595
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.57595
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.58067
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.58067
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5854
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.5854
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.59028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.59028
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.595
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.595
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.59993
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.59993
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.60497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.60497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.60979
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.60979
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.6147
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.6147
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.61975
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.61975
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.62456
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.62456
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.6299
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.6299
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.63516
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.63516
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.64043
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.64043
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.64539
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.64539
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.65069
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.65069
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.65556
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.65556
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.66117
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.66117
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.66651
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.66651
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.67327
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.67327
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.67807
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.67807
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.68337
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.68337
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.68818
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.68818
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.69311
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.69311
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.69825
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.69825
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.70315
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.70315
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.70777
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.70777
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.71295
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.71295
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.71796
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.71796
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.72279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.72279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.72782
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.72782
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.73293
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.73293
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.7378
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.7378
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.74289
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.74289
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.74908
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.74908
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.75443
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.75443
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.76046
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.76046
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.76591
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.76591
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.77108
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:02]-----:10.77108
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.00389
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.00389
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.01271
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.01271
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.02195
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.02195
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.02878
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.02878
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.03761
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.03761
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.04377
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.04377
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.04931
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.04931
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.05569
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.05569
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.06472
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.06472
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.071
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.071
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.07673
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.07673
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.08224
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.08224
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.08845
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.09805
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.09805
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.10436
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.10436
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.1102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.1102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.11596
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.11596
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.12178
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.12178
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.12742
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.12742
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.1343
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.1343
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.14168
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.14168
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.14896
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.14896
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.15528
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.15528
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.16197
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.16197
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.16944
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.16944
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.17589
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.17589
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.18253
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.18253
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.18851
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.18851
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.19492
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.19492
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.60152
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.60152
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.60767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.60767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.61482
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.61482
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6201
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6201
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.62542
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.62542
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.63591
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.63591
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6415
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.6415
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.64682
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.64682
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.65209
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.65209
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.65754
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.65754
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.66307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.66307
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.66819
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.66819
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.67385
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.67385
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.67994
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.67994
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.68583
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.68583
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.69142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.69142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.69663
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.69663
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.70195
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.70195
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.70754
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.70754
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.71279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.71279
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.71858
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.71858
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.7241
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.7241
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.72933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.72933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.73472
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.73472
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.73994
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.73994
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.74507
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.74507
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.75102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.75102
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.7569
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.7569
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.76291
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.76291
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.76973
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.76973
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.77542
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.77542
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.78101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.78101
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.78646
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.78646
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.79167
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.79167
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.79814
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.79814
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8047
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8047
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.81123
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.81123
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8199
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8199
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.82561
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.82561
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.83127
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.83127
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.83677
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.83677
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.84254
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.84254
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8483
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8483
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.85372
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.85372
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8594
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8594
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.86503
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.86503
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.87076
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.87076
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.87655
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.87655
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8821
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.8821
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.88767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.88767
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.89349
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.89349
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.89895
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.89895
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9047
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9047
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.91043
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.91043
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.91614
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.91614
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9225
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9225
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.92824
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.92824
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.93454
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.93454
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.94026
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.94026
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9456
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.9456
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.95163
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.95163
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.95737
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.95737
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.96295
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.96295
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.96893
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:03]-----:11.96893
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.9749
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.9749
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.98156
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.98156
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.98799
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.98799
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.99368
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.99368
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.99965
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:11.99965
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.00535
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.00535
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.01134
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.01134
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.01933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.01933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.02512
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.02512
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.03112
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.03112
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.03687
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.03687
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.04245
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.04245
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.04841
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.04841
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.05426
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.05426
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.06023
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.06023
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.06634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.06634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.07201
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.07201
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.07836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.07836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.08481
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.08481
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.09187
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.09187
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.09869
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.09869
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.10566
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.10566
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.11423
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.11423
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.1207
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.1207
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.12665
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.12665
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.13311
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.13311
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.63185
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.63185
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.63931
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.63931
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.64618
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.64618
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.6526
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.6526
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.65997
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.65997
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.66668
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.66668
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.67353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.67353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.68005
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.68005
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.68651
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.68651
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.69378
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.69378
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.70142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.70142
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.70836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.70836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.71532
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.71532
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.72265
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.72265
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.80523
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.80523
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.81218
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.81218
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.8189
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.8189
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.82693
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.82693
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.83372
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.83372
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.84001
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.84001
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.84634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.84634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.85328
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.85328
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.85911
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.85911
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.86549
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.86549
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.87154
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.87154
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.87763
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.87763
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.88461
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.88461
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.89141
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:04]-----:12.89141
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+
+[06:02:12]-----:20.16148
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16148
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16497
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16742
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16742
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16983
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.16983
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17216
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17216
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17446
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17446
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17669
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17669
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17892
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.17892
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18128
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18128
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18391
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18391
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18634
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18865
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.18865
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19092
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19092
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.1933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.1933
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19649
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19649
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19935
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.19935
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20182
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20182
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20422
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20422
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20644
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20644
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20868
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.20868
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21099
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21099
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21382
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21382
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21654
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21654
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21902
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.21902
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22165
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22165
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22417
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22417
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22648
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22648
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22893
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.22893
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23367
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23367
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23598
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23598
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.23836
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24068
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24068
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24294
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24294
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24553
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24553
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24817
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.24817
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25054
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25054
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25289
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25289
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25703
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.25703
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26353
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26639
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26639
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26902
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.26902
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27164
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27164
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27441
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27441
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27747
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.27747
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.28058
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.28058
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.28405
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.28405
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.6963
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.6963
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.70027
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.70027
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71059
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71059
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71449
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71449
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71786
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.71786
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72033
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72033
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72267
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72267
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72599
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72599
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72862
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.72862
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.73135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+[06:02:12]-----:20.73135
+UnityEngine.Debug:Log (object)
+Sailfish.Log.UILog:Update () (at Assets/UILog.cs:84)
+
+

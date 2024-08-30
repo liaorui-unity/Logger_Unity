@@ -1,0 +1,41 @@
+[05:12:57]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Log/Logger.cs:53)
+
+[05:12:57]日志时间：20240830
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Log/Logger.cs:53)
+
+[05:12:57]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240830/051257.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Log/Logger.cs:53)
+
+[05:12:57]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Log/Logger.cs:53)
+
+[05:12:57]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Log/Logger.cs:53)
+
+
+[05:13:06][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+

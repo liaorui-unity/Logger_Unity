@@ -1,0 +1,7 @@
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\bin\Debug\LogInfo.dll
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\bin\Debug\LogInfo.pdb
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\LogInfo.csproj.AssemblyReference.cache
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\LogInfo.csproj.CoreCompileInputs.cache
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\LogInfo.csproj.CopyComplete
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\LogInfo.dll
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\LogInfo.pdb

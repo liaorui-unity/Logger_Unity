@@ -7,3 +7,10 @@ D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.CopyComple
 D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.dll
 D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.pdb
 D:\Project\SVN\LogDemo\LogDebug\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\bin\Debug\Logger.dll
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\bin\Debug\Logger.pdb
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\Logger.dll
+E:\Project\Logger_Unity\Logger\LogDebug\Logger\Logger\obj\Debug\Logger.pdb
