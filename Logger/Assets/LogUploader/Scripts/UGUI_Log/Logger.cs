@@ -38,9 +38,13 @@ namespace Sailfish.Log
         {
             if (instance == null)
             {
-                instance = new GameObject("Logger").AddComponent<Logger>();
-                Application.logMessageReceivedThreaded += Recv;
-                CreatMode(LogMode.UIToolKit);
+                var logger = Resources.Load("Logger");
+                var go = (GameObject)Instantiate(logger);
+                DontDestroyOnLoad(go);
+                
+                instance = go.GetComponent<Logger>();
+                Application.logMessageReceived += Recv;
+                CreatMode(instance.logMode);
             }
         }
 
@@ -51,22 +55,25 @@ namespace Sailfish.Log
 
         private ILogUI logUI;
 
-        private LogMode logMode;
+        public  LogMode logMode = LogMode.UIToolKit;
 
         public static void CreatMode(LogMode mode)
         {
+            GameObject go = null;
             if (mode == LogMode.UGUI)
             {
-                var go = (GameObject)Instantiate(Resources.Load("UGUILogger"));
-                instance.panel = go.transform.Find("MainPanel");
-                instance.logUI = go.transform.GetComponent<ILogUI>();
-                instance.logUI?.Init(instance.panel);
+                go = (GameObject)Instantiate(Resources.Load("UGUILogger"));
             }
             else if (mode == LogMode.UIToolKit)
             {
-                var go = (GameObject)Instantiate(Resources.Load("UIToolKitLogger"));
+                go = (GameObject)Instantiate(Resources.Load("UIToolKitLogger"));
+            }
+
+            if (go != null)
+            {
+                instance.panel = go.transform.Find("MainPanel");
                 instance.logUI = go.transform.GetComponent<ILogUI>();
-                instance.logUI?.Init(null);
+                instance.logUI?.Init(instance.panel);
             }
         }
 
@@ -79,7 +86,6 @@ namespace Sailfish.Log
 #else
             Info.Init(Application.persistentDataPath);
 #endif
- 
         }
 
 

@@ -19,7 +19,7 @@ namespace Sailfish.Log
         int count = 1;
         public void ShowTrace(LogData data)
         {
-            traceTxt.text = data.stackTrace;
+            traceTxt.text = data.ToDataTrace();
             traceTxt.gameObject.SetActive(true);
             count = 2;
         }

@@ -25,7 +25,7 @@ namespace Sailfish
         private Queue<LogBubble> bubbles = new Queue<LogBubble>();
 
 
-        int rebuilderWait = 2;
+        int rebuilderWait = 0;
 
         public void Init()
         {

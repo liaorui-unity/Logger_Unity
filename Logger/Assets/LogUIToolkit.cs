@@ -9,7 +9,7 @@ using UnityEngine.UIElements;
 
 namespace Sailfish.Log
 {
-    public class UILog : MonoBehaviour,ILogUI
+    public class LogUIToolkit : MonoBehaviour,ILogUI
     {
         private Label fpsTxt;
         private Label titleTxt;
@@ -66,22 +66,11 @@ namespace Sailfish.Log
             if (traceElement.style.display == DisplayStyle.None)
             {
                 traceElement.style.display = DisplayStyle.Flex;
-                traceTxt.text = logItem.ToString();
+                traceTxt.text = logItem.ToDataTrace();
             }
             else
             {
-                traceTxt.text = logItem.ToString();
-            }
-        }
-
-
-
-
-        void Update()
-        {
-            if (Input.GetKey(KeyCode.G))
-            {
-                Debug.Log("-----:" + Time.time);
+                traceTxt.text = logItem.ToDataTrace();
             }
         }
 
@@ -94,7 +83,7 @@ namespace Sailfish.Log
         {
             uploader = new LogUploader();
             // 获取 UI 文档的根 VisualElement
-            root = GetComponent<UIDocument>().rootVisualElement;
+            root = panel.GetComponent<UIDocument>().rootVisualElement;
 
             titleTxt = root.Q<Label>("IP");
             titleTxt.text = $"{Application.productName}_{LogInfo.Info.debugIp}";
