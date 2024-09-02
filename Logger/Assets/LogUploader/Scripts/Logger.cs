@@ -62,11 +62,11 @@ namespace Sailfish.Log
             GameObject go = null;
             if (mode == LogMode.UGUI)
             {
-                go = (GameObject)Instantiate(Resources.Load("UGUILogger"));
+                go = (GameObject)Instantiate(Resources.Load("UGUILogger"),instance.transform);
             }
             else if (mode == LogMode.UIToolKit)
             {
-                go = (GameObject)Instantiate(Resources.Load("UIToolKitLogger"));
+                go = (GameObject)Instantiate(Resources.Load("UIToolKitLogger"), instance.transform);
             }
 
             if (go != null)

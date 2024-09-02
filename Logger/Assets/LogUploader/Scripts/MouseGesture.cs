@@ -9,98 +9,98 @@ namespace Sailfish.Log
 {
     public class MouseGesture
     {
-        bool isOpenCameraBack = false;
-
-        public System.Action<bool> Call;
-
-        Point downPoint;
-        Point topPoint;
-
-        //屏幕左边中心点
-        Bounds boundsZero = new Bounds(new Vector3(0, Screen.height / 2, 0), Vector3.one * 200);
-
-        //屏幕右边中心点
-        Bounds boundsTop  = new Bounds(new Vector3(Screen.width,Screen.height/2,0), Vector3.one * 200);
-
-        public class Point
+        public int _islock;
+        public int IsLock
         {
-            public Bounds bouns;
-            public bool  isActive;
-
-            int   localCount = 0;
-            float localTime  = 1.0f;
-
-            public Point(Bounds bounds)
+            get
             {
-                this.bouns = bounds;
+                _islock = PlayerPrefs.GetInt($"{Application.productName}_MouseGesture", 0);
+                return _islock;
+            }
+            set
+            {
+
+                PlayerPrefs.SetInt($"{Application.productName}_MouseGesture", value);
+                _islock = value;
+            }
+        }
+
+
+        private bool isOpenCameraBack = false;
+        public System.Action<bool> Call;
+        private List<Vector2> mousePositions = new List<Vector2>();
+
+        private float time = 2.0f;
+        private float runTime = 0;
+        public void Check()
+        {
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                if (Input.GetKeyDown(KeyCode.L))
+                {
+                    Debug.Log("Lock MouseGesture:"+ IsLock);
+                    var value = IsLock;
+                    IsLock = value== 1 ? 0 : 1;
+                }
             }
 
-            public void Complete()
-            {
-                isActive = false;
-                localCount = 0;
-            }
-
-            public void Check(float time)
+            if (IsLock==1)
             {
                 if (Input.GetMouseButtonDown(0))
                 {
-                    if (bouns.Contains(Input.mousePosition))
-                    {
-                        if (localCount == 0 || localCount == 1)
-                        {
-                            localCount++;
-                            localTime = time;
-                        }
-                        else if (localCount == 2)
-                        {
-                            localTime = time;
-                            isActive = true;
-                        }
-                    }
+                    mousePositions.Clear();
                 }
 
-                if (isActive)
+                if (Input.GetMouseButton(0))
                 {
-                    if (Time.time - localTime > 2.5f)
-                    {
-                        isActive = false;
-                    }
+                    runTime = Time.time;
+                    mousePositions.Add(Input.mousePosition);
                 }
-                else 
+
+                if (Input.GetMouseButtonUp(0))
                 {
-                    if (localCount > 0)
+                    if (Time.time - runTime < time)
                     {
-                        if (Time.time - localTime > 1.0f)
+                        if (IsCircleGesture(mousePositions))
                         {
-                            localCount = 0;
+                            isOpenCameraBack = !isOpenCameraBack;
+                            Call?.Invoke(isOpenCameraBack);
                         }
                     }
                 }
             }
         }
 
-        public MouseGesture()
+        private bool IsCircleGesture(List<Vector2> positions)
         {
-            topPoint  = new Point(boundsTop);
-            downPoint = new Point(boundsZero);
+            if (positions.Count < 20) // 增加点数要求
+                return false;
+
+            Vector2 start = positions[0];
+            Vector2 middle = positions[positions.Count / 2];
+            Vector2 end = positions[positions.Count - 1];
+
+            float dis1 = Vector2.Distance(start, middle);
+            float dis2 = Vector2.Distance(start, end);
+
+            if (dis2 > dis1 )
+                return false;
+
+            if (IsAcuteAngle(start, middle, end))
+                return false; // 如果夹角小于 90°
+
+            return true;
         }
 
-
-
-
-        public void Check()
+        private bool IsAcuteAngle(Vector2 start, Vector2 middle, Vector2 end)
         {
-            topPoint .Check(Time.time);
-            downPoint.Check(Time.time);
+            Vector2 startToMiddle = start - middle;
+            Vector2 middleToEnd = end - middle;
 
-            if (topPoint.isActive && downPoint.isActive)
-            {
-                topPoint .Complete();
-                downPoint.Complete();
-                isOpenCameraBack = !isOpenCameraBack;
-                Call?.Invoke(isOpenCameraBack);
-            }
+            float dotProduct = Vector2.Dot(startToMiddle.normalized, middleToEnd.normalized);
+            float angle = Mathf.Acos(dotProduct) * Mathf.Rad2Deg;
+
+            return angle >= 90f;
         }
     }
 }

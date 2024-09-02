@@ -39,6 +39,11 @@ namespace Sailfish.Log
         /// </summary>
         public Text ipTxt;
 
+        /// <summary>
+        /// 显示FPS
+        /// </summary>
+        public Text fpsTxt;
+
 
         public LogUploader uploader;
 
@@ -58,6 +63,7 @@ namespace Sailfish.Log
             uploadBtn    =   target.Find("bottom/upload").GetComponent<Button>();
             closeBtn     =   target.Find("top/closeButton"). GetComponent<Button>();
 
+            fpsTxt   =  target.Find("top/Fps/value").GetComponent<Text>();
             ipTxt    =   target.Find("top/account/Ip").GetComponent<Text>(); 
             proTxt   =   target.Find("top/account/Project").GetComponent<Text>();
 
@@ -68,6 +74,14 @@ namespace Sailfish.Log
 
             uploader = new LogUploader();
             display = target.gameObject.AddComponent<FPSDisplay>();
+            display.OnUpdateFPS += (fps) =>
+            {
+                if (fpsTxt != null)
+                {
+                    fpsTxt.color = display.showColor;
+                    fpsTxt.text  = fps;
+                }
+            };
 
             uploadBtn.onClick.AddListener(() => { uploader.Upload();  });
             closeBtn .onClick.AddListener(() => { SetPanel(false, true); });
