@@ -1,0 +1,41 @@
+[03:34:09]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:09]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:09]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033409.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:09]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:09]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+

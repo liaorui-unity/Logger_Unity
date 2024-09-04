@@ -1,0 +1,1639 @@
+[03:34:51]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:51]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:51]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033451.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:51]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:51]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+
+[03:34:51]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033451.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033451.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:51]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+
+[03:34:57]Time:6.254911
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:57]Time:6.254911
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:57]Time:6.254911
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:57]Time:6.254911
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:57][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[03:34:57][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[03:34:58]Time:6.495377
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.495377
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.495377
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.495377
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.916722
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.916722
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.916722
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:58]Time:6.916722
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
+[03:34:59]Time:7.935753
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:7.935753
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:7.935753
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:7.935753
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.11296
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.11296
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.11296
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.11296
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.252268
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.252268
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.252268
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:34:59]Time:8.252268
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.411929
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.411929
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.411929
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.411929
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.548229
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.548229
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.548229
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.548229
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.695308
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.695308
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.695308
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.695308
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.843697
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.843697
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.843697
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:8.843697
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.002027
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.002027
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.002027
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.002027
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.215873
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.215873
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.215873
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:00]Time:9.215873
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:01]Time:9.406894
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:01]Time:9.406894
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:01]Time:9.406894
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:35:01]Time:9.406894
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
+[03:35:14]Log与服务器链接失败_System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+
+UnityEngine.Debug:LogError (object)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:52)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:14]Log与服务器链接失败_System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+
+UnityEngine.Debug:LogError (object)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:52)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+
+[03:35:37]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:37]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:37]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:37]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:38]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:38]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:38]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+[03:35:46]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:46]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:46]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:46]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:46]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:46]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:46]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:47]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:47]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:47]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+
+[03:35:47]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:47]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:47]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:47]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:48]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:48]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:49]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:49]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:50]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:50]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:51]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:51]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:51]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:51]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:51]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:51]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:51]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+[03:35:52]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:52]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:52]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:52]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:52]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:52]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:52]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:53]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:53]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:54]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:54]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:54]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:54]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]连接服务器中.....
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:48)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]与服务器链接成功！:101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:SocketClient () (at Assets/LogUploader/Scripts/LogUploader.cs:56)
+Sailfish.Log.LogUploader:Upload () (at Assets/LogUploader/Scripts/LogUploader.cs:27)
+Sailfish.Log.LoggerPanel:<.ctor>b__10_0 () (at Assets/LogUploader/Scripts/UGUI_Log/LoggerPanel.cs:72)
+UnityEngine.EventSystems.EventSystem:Update () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:514)
+
+[03:35:54]Process.recv -> [  100%  ]
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader:ShowProgress (single) (at Assets/LogUploader/Scripts/LogUploader.cs:169)
+Sailfish.Log.LogUploader:SendFileBytes (System.IO.FileStream) (at Assets/LogUploader/Scripts/LogUploader.cs:165)
+Sailfish.Log.LogUploader/<>c__DisplayClass6_0:<SendFile>b__1 () (at Assets/LogUploader/Scripts/LogUploader.cs:73)
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+
+[03:35:54]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+[03:35:54]发送完成
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.LogUploader/<SendFile>d__6:MoveNext () (at Assets/LogUploader/Scripts/LogUploader.cs:78)
+UnityEngine.UnitySynchronizationContext:ExecuteTasks ()
+
+
+[03:35:56]Should not be capturing when there is a hotcontrol
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+[03:35:56]Should not be capturing when there is a hotcontrol
+UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+
+

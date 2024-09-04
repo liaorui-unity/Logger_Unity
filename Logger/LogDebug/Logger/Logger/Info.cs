@@ -90,7 +90,7 @@ namespace LogInfo
 
             if (!Directory.Exists(dubugFolder))      Directory.CreateDirectory(dubugFolder);
 
-            Application.logMessageReceivedThreaded += OnLogCallBack;
+            Application.logMessageReceived += OnLogCallBack;
 
             SortAndDestroy(logFolder);
 
@@ -111,7 +111,7 @@ namespace LogInfo
         public static void Abort()
         {
             saveThread.Abort();
-            Application.logMessageReceivedThreaded -= OnLogCallBack;
+            Application.logMessageReceived -= OnLogCallBack;
         }
 
 

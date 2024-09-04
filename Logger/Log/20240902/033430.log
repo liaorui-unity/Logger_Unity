@@ -1,0 +1,139 @@
+[03:34:30]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:30]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:30]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033430.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:30]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:34:30]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+
+[03:34:30]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033430.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033430.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+[03:34:30]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.Object:Instantiate (UnityEngine.Object)
+Sailfish.Log.Logger:CreatMode (Sailfish.Log.LogMode) (at Assets/LogUploader/Scripts/Logger.cs:60)
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:43)
+
+
+[03:34:30]NullReferenceException: Object reference not set to an instance of an object
+Sailfish.LogGroup.LateUpdate () (at Assets/LogUploader/Scripts/UGUI_Log/LogGroup.cs:82)
+
+[03:34:30]NullReferenceException: Object reference not set to an instance of an object
+Sailfish.LogGroup.LateUpdate () (at Assets/LogUploader/Scripts/UGUI_Log/LogGroup.cs:82)
+
+

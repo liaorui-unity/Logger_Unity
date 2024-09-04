@@ -1,0 +1,140 @@
+[03:31:44]项目名字：UnityLogger
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:31:44]日志时间：20240902
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:31:44]本地日志地址：E:\Project\Logger_Unity\Logger/Log/20240902/033144.log
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:31:44]服务器日志地址：101.33.207.93
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+[03:31:44]开启日志线程
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+LogInfo.Info:Init (string)
+Sailfish.Log.Logger:Awake () (at Assets/LogUploader/Scripts/Logger.cs:78)
+UnityEngine.GameObject:AddComponent<Sailfish.Log.Logger> ()
+Sailfish.Log.Logger:InitLogger () (at Assets/LogUploader/Scripts/Logger.cs:41)
+
+
+[03:31:51][Mediation]: To access the full suite of Mediation Editor tools, please link your project to a Unity Dashboard project under Edit > Project Settings > Services
+UnityEngine.Logger:LogWarning (string,object)
+Unity.Services.Mediation.MediationLogger:LogWarning (object) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Runtime/Tools/Logger/MediationLogger.cs:27)
+Unity.Services.Mediation.Dashboard.Editor.DashboardClient/<>c__DisplayClass19_0:<GetConfiguredAdNetworksAsync>b__0 (bool) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardClient.cs:212)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller/<>c:<Update>b__11_1 (System.Action`1<bool>) (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+System.Collections.Generic.List`1<System.Action`1<bool>>:ForEach (System.Action`1<System.Action`1<bool>>)
+Unity.Services.Mediation.Dashboard.Editor.DashboardPoller:Update () (at Library/PackageCache/com.unity.services.mediation@1.0.5/Editor/Settings/Dashboard/DashboardPoller.cs:46)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+
+[03:32:21]Time:29.39893
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:22]Time:30.4342
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
+[03:32:23]Time:31.76071
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:24]Time:32.06458
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:24]Time:32.28685
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:24]Time:32.51111
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:24]Time:32.73268
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:24]Time:33.00075
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
+[03:32:25]Time:33.62699
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:25]Time:33.90322
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:26]Time:34.12632
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:26]Time:34.33064
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:26]Time:34.92352
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
+[03:32:27]Time:35.13348
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:27]Time:35.31557
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:27]Time:35.50581
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+[03:32:28]Time:36.15934
+UnityEngine.Debug:Log (object,UnityEngine.Object)
+LogInfo.Info:Log (string)
+Sailfish.Log.Logger:Update () (at Assets/LogUploader/Scripts/Logger.cs:116)
+
+
